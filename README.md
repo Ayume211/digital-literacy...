@@ -1,3 +1,5 @@
+
+![image](https://github.com/user-attachments/assets/72508857-0320-47a1-a48d-ac403d360941)
 # Digital LIteracy Training Guide
 Digital literacy refers to an individual's ability to find, evaluate, and communicate information using digital media platforms12345. It encompasses both technical and cognitive abilities in using information and communication technologies to create, evaluate, and share information.
 
